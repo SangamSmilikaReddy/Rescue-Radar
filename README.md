@@ -1,4 +1,4 @@
-# Rescue-Radar
+# DisRes - The Disaster Rescue App
 # Disaster Response System using AI, ML, and Satellite Imagery
 
 **This project aims to create a state-of-the-art disaster response system** that leverages **Artificial Intelligence (AI), Machine Learning (ML), Deep Learning,** and **Satellite Imagery** to provide **real-time actionable insights** during natural disasters. This system helps emergency response teams save lives by **mapping the effects of disasters** and **allocating resources efficiently**.
