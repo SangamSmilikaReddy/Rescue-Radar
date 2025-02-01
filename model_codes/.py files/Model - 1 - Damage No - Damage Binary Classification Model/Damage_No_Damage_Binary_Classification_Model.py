@@ -332,6 +332,7 @@ interface = gr.Interface(
 
 # Launch the interface
 interface.launch()
+#iface.launch(share=True, show_error=True, debug=True)
 
 # The retrain model part is commented out for now. Uncomment and complete it as needed.
 # def retrain_model(flagged_data_dir):
