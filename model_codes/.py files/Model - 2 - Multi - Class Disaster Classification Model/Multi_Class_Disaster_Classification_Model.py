@@ -157,6 +157,7 @@ history = model.fit(
 #print(f"Accuracy: {accuracy:.4f}")
 
 # Evaluate model on test data to get loss and accuracy
+print("\nEvaluating model on test data:\n")
 loss, accuracy = model.evaluate(test_X, test_Y, verbose=0)
 
 # Print loss and accuracy

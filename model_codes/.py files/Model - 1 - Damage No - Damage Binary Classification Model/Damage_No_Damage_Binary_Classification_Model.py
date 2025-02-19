@@ -262,6 +262,7 @@ plt.tight_layout()
 plt.show()
 
 # Evaluate the model on the test set
+print("\nEvaluating model on test data:\n")
 test_loss, test_accuracy = model.evaluate(X_test, y_test)
 print(f"Test Loss: {test_loss}")
 print(f"Test Accuracy: {test_accuracy}")
